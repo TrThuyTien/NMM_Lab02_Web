@@ -14,7 +14,7 @@
 
 body {
     height: 100vh;
-    background-image: url(/access/image/QH3.jpg) ;
+    background-image: url(./access/image/QH3.jpg) ;
     /* opacity: 0.5; */
     display: flex;
     justify-content: center;
